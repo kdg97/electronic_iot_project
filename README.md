@@ -33,7 +33,7 @@ NB: le contrôle du système se fera à partir d'une application mobile
   <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/55c61caf-7702-4acb-8b07-c4b0bad1c1e1">
 </div>
 
-### l'application mobile de contrôle
+### Application mobile de contrôle
 <div display="inline-block">
   <img align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/2ad6b6bf-4bc6-49c3-987e-ecf6b0408eab">
 </div>
@@ -71,7 +71,7 @@ NB: le contrôle du système se fera à partir d'une application mobile
   <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/804641d9-6b46-44ec-83a4-b185e8a9a2fb">
 </div>
 
-### Carte électronique réalisée (en plus de celle la le système est composé de deux autres cartes électronique)
+### Carte électronique réalisée (en plus de celle la le système est composé de deux autres cartes électroniques)
 <div display="inline-block">
   <img align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/a9b37bc0-4e6f-47c0-80cc-aa1d15216fb5">
 </div>
