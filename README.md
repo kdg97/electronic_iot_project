@@ -1,6 +1,6 @@
 # Projets realisés
 
-### Les images ci-dessous representent une partie des projets que j'ai realisé seul ou en partenariat avec d'autres personnes. On y retrouve des système embarqués et des objets connectés:
+### Les images ci-dessous representent une partie des projets que j'ai realisé seul ou en partenariat avec d'autres personnes. On y retrouve des systèmes embarqués et des objets connectés:
 
 ## Système de contrôle d'engins motorisés à distance
 
