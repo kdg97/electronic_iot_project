@@ -1,17 +1,17 @@
 # Projets realisés
 
-### Les images ci-dessous sont un resumé des projets que j'ai deja realise. On y retrouve des systeme embarqué et des objets connectés:
+### Les images ci-dessous representent une partie des projets que j'ai realisé seul ou en partenariat avec d'autres personnes. On y retrouve des systeme embarqués et des objets connectés:
 
-## Système de controle d'engins motorisés à distance
+## Système de contrôle d'engins motorisés à distance
 
-Les fonctionnalité qu'offre ce système sont:
+Les fonctionnalités qu'offre ce système sont:
 -  Arrêt moteur
 -  Géolocalisation
 -  Alarme
 -  Demarrage automatique
 -  Suivi d'état (batterie, heure de fonctionnement, etc)
 
-NB: le controle du système se fera à partir d'une application mobile
+NB: le contrôle du système se fera à partir d'une application mobile
 
 ### Schéma electronique
 <div display="inline-block">
@@ -41,7 +41,7 @@ NB: le controle du système se fera à partir d'une application mobile
 
 ## Système d'irrigation automatique
 
-Les fonctionnalité qu'offre ce système sont:
+Les fonctionnalités qu'offre ce système sont:
 
 -	 Déclencher la vanne pour l’irrigation en local ou à distance
 -	 Arrêter la vanne pour l’irrigation en local ou à distance
@@ -49,12 +49,12 @@ Les fonctionnalité qu'offre ce système sont:
 -	 Programmer l’irrigation en fonction de l’humidité du sol
 -	 Programmer l’irrigation en fonction du temps (jours, heures, minutes)
 -	 Mesurer le débit de l’eau
--	 Mesurer la quantité d’eau utilisé pour l’irrigation
--	 Obtenir l’historique des données du champ tels que les moments d’irrigation
+-	 Mesurer la quantité d’eau utilisée pour l’irrigation
+-	 Obtenir l’historique des données du champs tels que les moments d’irrigation
 -	 Obtenir le niveau de charge des batteries
 -	 Gestion de plusieurs vannes et capteurs simultanément
 
-NB: le controle du système se fera à partir d'une application mobile 
+NB: le contrôle du système se fera à partir d'une application mobile 
 
 ### Schéma electronique
 <div display="inline-block">
@@ -78,7 +78,7 @@ NB: le controle du système se fera à partir d'une application mobile
 
 ## Système d'irrigation automatique (pour les ménages)
 
-Les fonctionnalité qu'offre ce système sont:
+Les fonctionnalités qu'offre ce système sont:
 
 -	 Déclencher l’irrigation en local
 -	 Arrêter l’irrigation en local
@@ -96,7 +96,7 @@ Les fonctionnalité qu'offre ce système sont:
   <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/27fbbf4b-2eca-4213-b1a7-e82e39b58647">
 </div>
 
-### Visualisation 3D  de la electronique sur logiciel 
+### Visualisation 3D de la electronique sur logiciel 
 <div display="inline-block">
   <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/0c5a6717-fff6-4a1b-a3fb-e5a437f02ad4">
 </div>
