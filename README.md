@@ -1,8 +1,9 @@
-# Projet realisé 
+# Projets realisés
 
 ### Les images ci-dessous sont un resumé des projets que j'ai deja realise. On y retrouve des systeme embarqué et des objets connectés:
 
 ## Système de controle d'engins motorisés à distance
+
 Les fonctionnalité qu'offre ce système sont:
 -  Arrêt moteur
 -  Géolocalisation
@@ -36,5 +37,102 @@ NB: le controle du système se fera à partir d'une application mobile
 <div display="inline-block">
   <img align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/2ad6b6bf-4bc6-49c3-987e-ecf6b0408eab">
 </div>
+
+
+## Système d'irrigation automatique
+
+Les fonctionnalité qu'offre ce système sont:
+
+-	 Déclencher la vanne pour l’irrigation en local ou à distance
+-	 Arrêter la vanne pour l’irrigation en local ou à distance
+-	 Mesurer le taux d’humidité du sol
+-	 Programmer l’irrigation en fonction de l’humidité du sol
+-	 Programmer l’irrigation en fonction du temps (jours, heures, minutes)
+-	 Mesurer le débit de l’eau
+-	 Mesurer la quantité d’eau utilisé pour l’irrigation
+-	 Obtenir l’historique des données du champ tels que les moments d’irrigation
+-	 Obtenir le niveau de charge des batteries
+-	 Gestion de plusieurs vannes et capteurs simultanément
+
+NB: le controle du système se fera à partir d'une application mobile 
+
+### Schéma electronique
+<div display="inline-block">
+  <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/0d4beafe-9b62-4cfb-bdc5-3aa732ef23a0">
+</div>
+
+### Typon electronique (top)
+<div display="inline-block">
+  <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/c0e0086e-9a7c-4903-a450-c272637a0124">
+</div>
+
+### Typon electronique (Bottom)
+<div display="inline-block">
+  <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/804641d9-6b46-44ec-83a4-b185e8a9a2fb">
+</div>
+
+### Carte electronique réalisée (en plus de celle la le système est composé de deux autres cartes electroniques)
+<div display="inline-block">
+  <img align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/a9b37bc0-4e6f-47c0-80cc-aa1d15216fb5">
+</div>
+
+## Système d'irrigation automatique (pour les ménages)
+
+Les fonctionnalité qu'offre ce système sont:
+
+-	 Déclencher l’irrigation en local
+-	 Arrêter l’irrigation en local
+-	 Programmer l’irrigation en fonction du temps (jours, heures, minutes)
+-	 Programmer le temps d'irrigation
+
+
+### Schéma electronique
+<div display="inline-block">
+  <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/e03eef75-a980-480b-8ce7-91b55df7aacd">
+</div>
+
+### Typon electronique 
+<div display="inline-block">
+  <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/27fbbf4b-2eca-4213-b1a7-e82e39b58647">
+</div>
+
+### Visualisation 3D  de la electronique sur logiciel 
+<div display="inline-block">
+  <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/0c5a6717-fff6-4a1b-a3fb-e5a437f02ad4">
+</div>
+
+### Carte electronique réalisée 
+<div display="inline-block">
+  <img align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/a9b37bc0-4e6f-47c0-80cc-aa1d15216fb5">
+</div>
+
+
+## sms gateway (une passerelle sms)
+
+### Le système se compose d'une carte electronique et d'une application desktop
+
+<div display="inline-block">
+  <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/e0d9bae0-1d53-4407-b26f-958993701694">
+</div>
+
+
+
+## Système anti-incendie (phase de prototypage sur breadboard)
+
+<div display="inline-block">
+  <img align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/d35a3ecc-0f74-42b1-aa1e-616d8d83533e">
+</div>
+
+
+## Système de contrôle pour humidificateur (prototype)
+
+prototype a été developpé pour ressoudre le problème de perte de volaille durant les périodes de forte chaleur
+
+<div display="inline-block">
+  <img style="display: inline-block;"  align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/0e7b0bc2-2d88-41d9-9c68-074ba2861b84">
+  <img style="display: inline-block;" align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/a2d2d2e1-c45b-43eb-b682-f446fd0ee33f">
+</div>
+
+
 
 
