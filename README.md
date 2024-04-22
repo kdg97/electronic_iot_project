@@ -8,7 +8,7 @@ Les fonctionnalités qu'offre ce système sont:
 -  Arrêt moteur
 -  Géolocalisation
 -  Alarme
--  Demarrage automatique
+-  Démarrage automatique
 -  Suivi d'état (batterie, heure de fonctionnement, etc)
 
 NB: le contrôle du système se fera à partir d'une application mobile
