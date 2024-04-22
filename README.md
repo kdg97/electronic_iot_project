@@ -126,7 +126,7 @@ Les fonctionnalités qu'offre ce système sont:
 
 ## Système de contrôle pour humidificateur (prototype)
 
-prototype a été developpé pour resoudre le problème de perte de volaille durant les périodes de forte chaleur
+prototype a été developpé pour résoudre le problème de perte de volaille durant les périodes de forte chaleur
 
 <div display="inline-block">
   <img style="display: inline-block;"  align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/0e7b0bc2-2d88-41d9-9c68-074ba2861b84">
