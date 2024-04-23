@@ -1,6 +1,6 @@
 # Projets realisés
 
-### Les éléments ci-dessous représentent une partie des projets que j'ai realisé seul ou en partenariat avec d'autres personnes. On y retrouve des systèmes embarqués et des objets connectés:
+### Les images ci-dessous représentent une partie des projets que j'ai realisé seul ou en partenariat avec d'autres personnes. On y retrouve des systèmes embarqués et des objets connectés:
 
 ## Système de contrôle d'engins motorisés à distance
 
@@ -50,7 +50,7 @@ Les fonctionnalités qu'offre ce système sont:
 -	 Programmer l’irrigation en fonction du temps (jours, heures, minutes)
 -	 Mesurer le débit de l’eau
 -	 Mesurer la quantité d’eau utilisée pour l’irrigation
--	 Obtenir l’historique des données du champs tels que les moments d’irrigation
+-	 Obtenir l’historique des données du champ tels que les moments d’irrigation
 -	 Obtenir le niveau de charge des batteries
 -	 Gestion de plusieurs vannes et capteurs simultanément
 
@@ -103,7 +103,20 @@ Les fonctionnalités qu'offre ce système sont:
 
 ### Carte électronique réalisée 
 <div display="inline-block">
-  <img align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/a9b37bc0-4e6f-47c0-80cc-aa1d15216fb5">
+  <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/37b269fd-72ee-44dc-a57c-af8d76b6d283">
+</div>
+
+### Carte électronique + alimentation 
+<div display="inline-block">
+  <img style="display: inline-block;"  align="center" width="500" height="300" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/2edd8d0f-06b4-4d52-b1d2-16cc29c80343">
+  <img style="display: inline-block;" align="center" width="400" height="300" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/00ef9b97-a53b-489c-8947-f3411e6ca938">
+</div>
+
+
+
+### Boitier du système 
+<div display="inline-block">
+  <img align="center" width="800" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/602f1716-cb19-4ed2-ab96-818b15fc352c">
 </div>
 
 
@@ -126,7 +139,7 @@ Les fonctionnalités qu'offre ce système sont:
 
 ## Système de contrôle pour humidificateur (prototype)
 
-prototype a été developpé pour résoudre le problème de perte de volaille durant les périodes de forte chaleur
+#### Ce prototype a été developpé pour résoudre le problème de perte de volaille durant les périodes de forte chaleur
 
 <div display="inline-block">
   <img style="display: inline-block;"  align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/0e7b0bc2-2d88-41d9-9c68-074ba2861b84">
