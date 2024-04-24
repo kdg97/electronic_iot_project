@@ -5,13 +5,13 @@
 ## Système de contrôle d'engins motorisés à distance
 
 Les fonctionnalités qu'offre ce système sont:
--  Arrêt moteur
--  Géolocalisation
--  Alarme
--  Démarrage automatique
--  Suivi d'état (batterie, heure de fonctionnement, etc)
+-  Arrêt moteur;
+-  Géolocalisation;
+-  Alarme;
+-  Démarrage automatique;
+-  Suivi d'état (batterie, heure de fonctionnement, etc);
 
-NB: le contrôle du système se fera à partir d'une application mobile
+NB: le contrôle du système se fera à partir d'une application mobile.
 
 ### Schéma électronique
 <div display="inline-block">
@@ -43,16 +43,16 @@ NB: le contrôle du système se fera à partir d'une application mobile
 
 Les fonctionnalités qu'offre ce système sont:
 
--	 Déclencher la vanne pour l’irrigation en local ou à distance
--	 Arrêter la vanne pour l’irrigation en local ou à distance
--	 Mesurer le taux d’humidité du sol
--	 Programmer l’irrigation en fonction de l’humidité du sol
--	 Programmer l’irrigation en fonction du temps (jours, heures, minutes)
--	 Mesurer le débit de l’eau
--	 Mesurer la quantité d’eau utilisée pour l’irrigation
--	 Obtenir l’historique des données du champ telles que les moments d’irrigation
--	 Obtenir le niveau de charge des batteries
--	 Gestion de plusieurs vannes et capteurs simultanément
+-	 Déclencher la vanne pour l’irrigation en local ou à distance;
+-	 Arrêter la vanne pour l’irrigation en local ou à distance;
+-	 Mesurer le taux d’humidité du sol;
+-	 Programmer l’irrigation en fonction de l’humidité du sol;
+-	 Programmer l’irrigation en fonction du temps (jours, heures, minutes);
+-	 Mesurer le débit de l’eau;
+-	 Mesurer la quantité d’eau utilisée pour l’irrigation;
+-	 Obtenir l’historique des données du champ telles que les moments d’irrigation;
+-	 Obtenir le niveau de charge des batteries;
+-	 Gestion de plusieurs vannes et capteurs simultanément.
 
 NB: le contrôle du système se fera à partir d'une application mobile 
 
@@ -71,7 +71,7 @@ NB: le contrôle du système se fera à partir d'une application mobile
   <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/804641d9-6b46-44ec-83a4-b185e8a9a2fb">
 </div>
 
-### Carte électronique réalisée (en plus de celle la le système est composé de deux autres cartes électroniques)
+### Carte électronique réalisée (en plus de celle-là le système est composé de deux autres cartes électroniques)
 <div display="inline-block">
   <img align="center" width="400" height="600" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/a9b37bc0-4e6f-47c0-80cc-aa1d15216fb5">
 </div>
@@ -80,10 +80,10 @@ NB: le contrôle du système se fera à partir d'une application mobile
 
 Les fonctionnalités qu'offre ce système sont:
 
--	 Déclencher l’irrigation en local
--	 Arrêter l’irrigation en local
--	 Programmer l’irrigation en fonction du temps (jours, heures, minutes)
--	 Programmer le temps d'irrigation
+-	 Déclencher l’irrigation en local;
+-	 Arrêter l’irrigation en local;
+-	 Programmer l’irrigation en fonction du temps (jours, heures, minutes);
+-	 Programmer le temps d'irrigation.
 
 
 ### Schéma électronique
@@ -96,7 +96,7 @@ Les fonctionnalités qu'offre ce système sont:
   <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/27fbbf4b-2eca-4213-b1a7-e82e39b58647">
 </div>
 
-### Visualisation 3D de la électronique sur logiciel 
+### Visualisation 3D de carte la électronique sur logiciel 
 <div display="inline-block">
   <img align="center" width="600" height="400" src="https://github.com/kdg97/electronic_iot_project/assets/60584861/0c5a6717-fff6-4a1b-a3fb-e5a437f02ad4">
 </div>
