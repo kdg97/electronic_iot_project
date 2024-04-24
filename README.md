@@ -50,7 +50,7 @@ Les fonctionnalités qu'offre ce système sont:
 -	 Programmer l’irrigation en fonction du temps (jours, heures, minutes)
 -	 Mesurer le débit de l’eau
 -	 Mesurer la quantité d’eau utilisée pour l’irrigation
--	 Obtenir l’historique des données du champ tels que les moments d’irrigation
+-	 Obtenir l’historique des données du champ telles que les moments d’irrigation
 -	 Obtenir le niveau de charge des batteries
 -	 Gestion de plusieurs vannes et capteurs simultanément
 
